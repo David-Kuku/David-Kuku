@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **React, React Native, Typescript, MERN**
 
-- 👨‍💻 All of my projects are available at [https://kuku-portfolio.netlify.app/](https://kuku-portfolio.netlify.app/)
+- 👨‍💻 My portfolio can be visited on [https://kuku-portfolio.netlify.app/](https://kuku-portfolio.netlify.app/)
 
 - 📫 How to reach me **psalmsgus99@gmail.com**
 
