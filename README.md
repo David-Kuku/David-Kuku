@@ -6,7 +6,7 @@ My work spans React, Next.js, TypeScript, Node.js, PostgreSQL, Docker, and AWS, 
 
 I care about building software that is maintainable, solves real customer problems, and scales as products grow. Outside of work, you'll usually find me exploring system design, databases, cloud architecture, or contributing to personal projects that push my engineering skills further.</h3>
 
-- 🔭 I currently working at **Sterling Bank Plc, Nigeria.**
+- 🔭 I currently working at **Mainstack.**
 
 - 📫 How to reach me **psalmsgus99@gmail.com**
 
