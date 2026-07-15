@@ -5,8 +5,6 @@
 My work spans React, Next.js, TypeScript, Node.js, PostgreSQL, Docker, and AWS, with a strong interest in distributed systems, performance, and developer experience.
 
 I care about building software that is maintainable, solves real customer problems, and scales as products grow. Outside of work, you'll usually find me exploring system design, databases, cloud architecture, or contributing to personal projects that push my engineering skills further.</h3>
-<img alt="coding"align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=david-kuku&label=Profile%20views&color=0e75b6&style=flat" alt="david-kuku" /> </p>
 
 - 🔭 I currently working at **Sterling Bank Plc, Nigeria.**
 
